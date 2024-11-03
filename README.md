@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Front End Developer 🧙🏻‍♂️<br>I make unique and swagger projects ! 🥏<br>Chai & Code ☕️
+I am a Front End Developer 🧙🏻‍♂️<br>I make unique and swagger projects ! 🥏<br>Chai+Code ☕️
 
 
 ## 🌐 Socials:
