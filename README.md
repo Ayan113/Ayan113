@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ayan Chatterjee 👋</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=00ff99&background=00000000&lines=Ayan+Chatterjee;Software+Engineer;AI+ML+Enthusiast)
 
 <p align="center">
   <strong>Full Stack Developer (MERN) • Software Engineer • AI/ML Enthusiast</strong><br/>
