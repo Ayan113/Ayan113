@@ -1,5 +1,19 @@
-# 💫 About Me:
-I am a Front End Developer 🧙🏻‍♂️<br>I make unique and swagger projects ! 🥏<br>Chai+Code ☕️
+<h1 align="center">Hi, I'm Ayan Chatterjee 👋</h1>
+
+<p align="center">
+  <strong>Full Stack Developer (MERN) • Software Engineer • AI/ML Enthusiast</strong><br/>
+  I build scalable web apps, solve real engineering problems, and continuously improve my system-level thinking.
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 B.Tech CSE Graduate  
+- 💻 Strong focus on **Software Engineering, Full Stack Development & AI/ML**  
+- 🌱 Currently mastering **DSA, System Design, Backend Engineering & ML fundamentals**  
+- 🧩 Love breaking down complex problems & designing clean solutions  
+- 💼 Actively applying for **SWE / Full-Stack / AI-ML Engineering roles**  
+- ⚡ Building real, production-quality projects to level up engineering depth  
 
 
 ## 🌐 Socials:
