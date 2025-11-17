@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=00ff99&background=00000000&lines=Ayan+Chatterjee;Software+Engineer;AI+ML+Enthusiast)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Ayan+Chatterjee;Software+Engineer;Full+Stack+Developer;Frontend+Developer+%E2%9A%A1+Crafting+Clean+%26+Modern+UIs;AI%2FML+Enthusiast+%F0%9F%A4%96+Learning+Daily+%26+Building+Future+Tech;Problem+Solver+%F0%9F%A7%A0+Turning+Logic+Into+Code;Startup+Enthusiast+%F0%9F%9A%80+Driven+to+Build+Impact" alt="Typing SVG" />
+</p>
 
 # 💫 About Me:
 🎓 B.Tech CSE Graduate<br>💻 Strong focus on Software Engineering, Full Stack Development & AI/ML<br>🌱 Currently mastering DSA, System Design, Backend Engineering & ML fundamentals<br>🧩 Love breaking down complex problems & designing clean solutions<br>💼 Actively applying for SWE / Full-Stack / AI-ML Engineering roles<br>⚡ Building real, production-quality projects to level up engineering depth<br>
