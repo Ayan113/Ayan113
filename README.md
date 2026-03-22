@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-🎓 B.Tech CSE Graduate<br>💻 Strong focus on Software Engineering, Full Stack Development & AI/ML<br>🌱 Currently mastering DSA, System Design, Backend Engineering & ML fundamentals<br>🧩 Love breaking down complex problems & designing clean solutions<br>💼 Actively applying for SWE / Full-Stack / AI-ML Engineering roles<br>⚡ Building real, production-quality projects to level up engineering depth<br>
+🎓 B.E CSE Graduate<br>💻 Strong focus on Software Engineering, Full Stack Development & AI/ML<br>🌱 Currently mastering DSA, System Design, Backend Engineering & ML fundamentals<br>🧩 Love breaking down complex problems & designing clean solutions<br>💼 Actively applying for SWE / Full-Stack / AI-ML Engineering roles<br>⚡ Building real, production-quality projects to level up engineering depth<br>
 
 
 ## 🌐 Socials:
